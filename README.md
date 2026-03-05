@@ -31,13 +31,9 @@ Os dados analisados são fictícios, foram gerados por Inteligência Artificial 
 
 ## 📷 Preview do Dashboard
 
-*(Adicione aqui uma imagem do seu dashboard)*
-
-```
-images/dashboard_overview.png
-```
-
----
+<p align="center">
+  <img src="images/Screenshot 2026-03-05 143910.png" width="800">
+</p>
 
 ## 📂 Estrutura do Repositório
 
