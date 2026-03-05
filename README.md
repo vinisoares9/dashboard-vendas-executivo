@@ -75,9 +75,9 @@ O dashboard permite analisar:
 
 ## 👨‍💻 Autores
 
-**Vinicius Ribeiro Soares**
-**Henri Mafra**
-**Lucca Campelo**
+* **Vinicius Ribeiro Soares**
+* **Henri Mafra**
+* **Lucca Campelo**
 
 Estudante interessado nas áreas de:
 
